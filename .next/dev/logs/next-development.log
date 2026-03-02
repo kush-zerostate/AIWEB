@@ -1,0 +1,15 @@
+[00:00:12.927] Server  LOG     ✓ Ready in 10.5s
+[00:00:22.593] Server  LOG     ○ Compiling / ...
+[00:00:32.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:59.160] Server  LOG     [Figma Files] Auto-detected team 1547479507969457899 from DB
+[00:00:59.164] Server  LOG     [Figma Files] Fetching projects for team 1547479507969457899
+[00:01:01.234] Server  LOG     [Figma Files] Found 3 files for user@example.com
+[00:02:21.603] Server  LOG     [Figma Extract] Fetching file qGG9T5ZaShb6SSi8YAJJts for user@example.com...
+[00:02:22.416] Server  ERROR   [Figma Extract] API error 429: "{\"status\":429,\"err\":\"Rate limit exceeded\"}"
+[00:02:27.763] Server  LOG     [Figma Files] Auto-detected team 1547479507969457899 from DB
+[00:02:27.765] Server  LOG     [Figma Files] Fetching projects for team 1547479507969457899
+[00:02:28.183] Server  LOG     [Figma Extract] Fetching file ki5MPeRokQKwhRxvwPLn5g for user@example.com...
+[00:02:29.277] Server  LOG     [Figma Files] Found 3 files for user@example.com
+[00:02:29.288] Server  ERROR   [Figma Extract] API error 429: "{\"status\":429,\"err\":\"Rate limit exceeded\"}"
+[00:05:17.863] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:19.492] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
